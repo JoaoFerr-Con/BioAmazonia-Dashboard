@@ -5,7 +5,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-> **Dashboard industrial de telemetria em tempo real focado nos desafios climáticos e energéticos da Amazônia, com monitoramento especializado para Belém e Barcarena.**
+> **Dashboard industrial de telemetria em tempo real focado nos desafios climáticos e energéticos da Amazônia, com monitoramento especializado para Belém e Amazonas.**
 
 ---
 
