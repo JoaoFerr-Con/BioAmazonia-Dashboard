@@ -1,16 +1,18 @@
-# React + Vite
+🌲 BioAmazônia - Smart IoT Monitoring 🌲
+Dashboard industrial desenvolvido para monitoramento de telemetria em tempo real, focado nos desafios energéticos e climáticos da região Norte.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ Arquitetura & Tecnologias
+Frontend: React.js com Styled Components.
 
-Currently, two official plugins are available:
+Animações: Framer Motion para transições de dados.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Engenharia: Princípios de Clean Code e SOLID aplicados para escalabilidade.
 
-## React Compiler
+Ecossistema: Preparado para integração com APIs em C#/.NET e scripts de automação em Python.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📊 Módulos Principais
+Centro de Comando RF: Decodificação de pacotes 433MHz para sensores de temperatura e sinal.
 
-## Expanding the ESLint configuration
+Monitoramento Ambiental: Alertas críticos para ventanias e volume de chuva (pluviometria).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Árvore do Conhecimento: Repositório técnico para gestão de sustentabilidade regional.
